@@ -1,6 +1,9 @@
 # ComposableUITesting
 Sample project to demonstrate unit testing of composable functions
 
+## Reference article
+[Testing Composable in Jetpack Compose Android - Testing Fundamentals](https://saurabhpant.medium.com/testing-composable-in-jetpack-compose-android-testing-fundamentals-d89d8d7115ae)
+
 ## Screenshot
 ![Test Screens](https://user-images.githubusercontent.com/4559525/187026131-6a6cf1ed-b885-440b-ba2a-d1b415807adc.png)
 
